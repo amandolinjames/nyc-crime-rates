@@ -1,3 +1,1 @@
-NYC population https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk
-
-Historical crime data http://www.disastercenter.com/newyork/crime/9004.htm
+Data from [the FBI's Uniform Crime Reporting Statistics database](https://www.ucrdatatool.gov/Search/Crime/Local/RunCrimeJurisbyJurisLarge.cfm)
